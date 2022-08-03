@@ -1,4 +1,4 @@
-# Week 4 - Anonymous Won (Anowon)
+Anonymous Won (Anowon)
 
 ## Feature
 
